@@ -1,4 +1,5 @@
 ultralytics
+pyttsx3
 streamlit
 SpeechRecognition
 gtts
